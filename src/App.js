@@ -9,7 +9,7 @@ function App() {
   const [term, setTerm] = useState('');
 
   useEffect(() => {
-    fetch(`/recipe/* http://starlord.hackerearth.com/recipe/:splat 200!`)
+    fetch(`/api/* http://starlord.hackerearth.com/recipe/:splat 200!`)
       .then(res => res.json())
       .then(data => {
         setImages(data);
