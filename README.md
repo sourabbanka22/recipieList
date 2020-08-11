@@ -1,3 +1,14 @@
+# Recipie List
+
+A Recipie List created using React.js
+
+## Following is the Home Screen of the Recipie List application.
+
+## Home Screen
+<p align="center">
+  <img src="./screenshots/Recipie1.PNG" width="500" title="Home Screen">
+</p>
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
